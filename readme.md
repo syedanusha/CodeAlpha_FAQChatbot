@@ -1,0 +1,1 @@
+An AI-powered FAQ chatbot that helps users understand PCOS and PCOD by answering common health-related questions using Natural Language Processing (NLP).
